@@ -1,2 +1,2 @@
 # responsive-blog
-Practicing responsive web design by making a responsive blog template.
+Practicing responsive web design by making a blog template.
